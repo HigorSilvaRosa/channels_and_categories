@@ -1,1 +1,1 @@
-web: gunicorn ucontrol_v0.wsgi --log-file -
+web: gunicorn channels_and_categories.wsgi --log-file -
